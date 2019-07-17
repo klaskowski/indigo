@@ -4,43 +4,32 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a Software Developer since 2012, experienced in Java and JavaScript. I took part in projects ranging from one-man army startups to enterprise level solutions. Currently, I'm  working in insurance industry, focusing on scaling microservice architecture, utilizing Kafka messaging queues and NoSQL databases over AWS services. I favors true agility over poorly implemented Scrum. His motto is: "Coding is the easiest part of the job. Even though it involves computers - it's all about people".
+</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Outside of a 9-to-5 developer job, I work as a lecturer and trainer at coding bootcamps.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>CSS (Sass, Less)</li>
+	<li>Javascript (Angular, React)</li>
+	<li>NodeJS (Express)</li>
+	<li>Webpack</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
+	<li>Java</li>
+	<li>Spring</li>
+	<li>Hibernate</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Scrum</li>
+	<li>TDD</li>
+	<li>Continuous Integration</li>
+	<li>Docker</li>
+	<li>Openshift</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://klaskowski.github.io/Game-of-Life/">Game of Life</a></li>
 </ul>
