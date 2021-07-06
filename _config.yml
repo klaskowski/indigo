@@ -1,9 +1,9 @@
 # main text of home
 name: Krystian Laskowski
-bio: Software Architect. Coding trainer. Hobby investor.
+bio: Software Developer. Coding trainer. Stock trader.
 
 # twitter summary info
-description: Krystian Laskowski - Software Architect, Coding trainer, Hobby investor.
+description: Krystian Laskowski - Software Developer. Coding trainer. Stock trader.
 
 # if it's an external image, update below for true
 # better with square images
@@ -39,7 +39,7 @@ disqus:
 instagram: krystian.las
 # pinterest: mypinterest
 linkedin: krystian-laskowski-a8b94492
-# youtube: myyoutube
+youtube: channel/UCo71oIqrSB58omN8hGzSUzg
 # spotify: myspotify
 github: klaskowski
 # gitlab: mygitlab
@@ -76,7 +76,7 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -116,4 +116,4 @@ compress_html:
         - development
         - stage
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "vendor"]
