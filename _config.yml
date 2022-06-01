@@ -1,9 +1,9 @@
 # main text of home
 name: Krystian Laskowski
-bio: Software Developer. Coding trainer. Stock trader.
+bio: Software Developer. Coding trainer. Crypto trader.
 
 # twitter summary info
-description: Krystian Laskowski - Software Developer. Coding trainer. Stock trader.
+description: Krystian Laskowski - Software Developer. Coding trainer. Crypto trader.
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,12 +34,12 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: mytwitter
+twitter: KrystianLaskow1
 # google: mygoogle
 instagram: krystian.las
 # pinterest: mypinterest
 linkedin: krystian-laskowski-a8b94492
-youtube: channel/UCo71oIqrSB58omN8hGzSUzg
+youtube: channel/UC581aHZQSEuYp3XmxG9sguA
 # spotify: myspotify
 github: klaskowski
 # gitlab: mygitlab
