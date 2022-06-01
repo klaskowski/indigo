@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THIS IS HOW TO BE RICH - One "MUST-KNOW" Secret to MAKE MONEY FAST"
+title: "THIS IS HOW TO BE RICH - One MUST-KNOW Secret to MAKE MONEY FAST"
 category: blog
 ---
 
@@ -12,7 +12,7 @@ I have finally figured it out. It's really just one secret. Internet gurus were 
 
 ## Make money fast
 
-"Make money fast" are exact words my rich friend told me once. But what does it mean? Let's take a look at an article from The Motley Fool, which says "Missing just a few of the best stock market days could cost you big".
+"Make money fast" are exact words my rich friend told me once. But what does it mean? Let's take a look at an article from The Motley Fool, which says ["Missing just a few of the best stock market days could cost you big"](https://www.fool.com/investing/2020/12/31/missing-just-a-few-of-the-best-stock-market-days-c/).
 
 What the article is saying is that most of the money is being made in just few days and the rest of time, say 90-95%, people are just waiting around for that one golden opportunity, one lucky day. According to this article, if you've bought into the market ten years ago and you just "buy and hold", you'd make 6% on average per year. But actually, if you've missed the ten best days of the stock market, your returns would drop from 6% to just 2.4% per year. And if somehow you just missed 20 best days, your returns would be close to zero.
 
@@ -48,6 +48,8 @@ What is the next opportunity? I'm going to introduce that to you.
 
 Social tokens.
 
+There's a reason I've joined [Big Short Bets](https://bigshortbets.com/) - that's a community-based token project. One of many. Huge wave incoming.
+
 If you don't like the idea of becoming a millionaire, that's fine. Return to your 9-to-5 job. Go make your money the slow way in a brick and mortar store job.
 
 How do women get wealthy?
@@ -56,9 +58,9 @@ Let's look at MacKenzie Scott. What did she do? She married Jeff Besos. That's i
 
 Speaking of finance. I had an opportunity to follow closely a group of top-tier traders. What made them rich was usually one high-yield trade a year, with the rest of the year spent on waiting for the opportunity. When opportunity arised, they went all in, while for the rest of the time, their money was sitting outside of the market or in some safe trade, waiting for one chance.
 
-# Sniffing opportunity
+## Sniffing opportunity
 
-Opportunity might come at any day. It can be a day just like today. You might be just lazy around the house, reading a random blog, sitting in a pyjama, really borde out of your mind. You're going to be in a state of innertia, inactivity, when it feels like nothing is going on in the world. But that's when the opportunity comes. If you don't grab it now, it will be gone, maybe even next minute.
+Opportunity might come at any day. It can be a day just like today. You might be just lazy around the house, reading a random blog, sitting in a pyjama, really bored out of your mind. You're going to be in a state of innertia, inactivity, when it feels like nothing is going on in the world. But that's when the opportunity comes. If you don't grab it now, it will be gone, maybe even next minute.
 
 I'm pretty sure that in a year you'll come back to this post, thinking "That was the opportunity Krystian was talking about. I've missed it!". Opportunities are always becoming clear after a certain event when it's too late to grab them. You'll miss plenty of opportunities to change your life, just like you've missed stock investing in Apple, Google, real estate, Bitcoin, Dogecoin and all these other chances that you had but you've passed on.
 
@@ -66,7 +68,7 @@ It's not your fault. You've been working hard at your day job, making slow money
 
 Or is it?
 
-# Conclusion
+## Conclusion
 
  Singular days, short amount of time, grabed opportunities - that's how the money is made in this world. It's not wealth accumulated over tens of years of hard service to please your boss. He will promote someone else, some newcomer with more freshness and potential. At this point people usually rage quit and switch jobs, starting this process all over again.
 
